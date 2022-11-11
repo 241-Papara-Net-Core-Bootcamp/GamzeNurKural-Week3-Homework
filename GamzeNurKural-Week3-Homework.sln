@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GamzeNurKural-Week3-Homework.Web", "GamzeNurKural-Week3-Homework\GamzeNurKural-Week3-Homework.Web.csproj", "{7B247AAA-E25C-4DF3-8C9B-7DA9C75F41B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GamzeNurKural-Week3-Homework.Api", "GamzeNurKural-Week3-Homework.Api\GamzeNurKural-Week3-Homework.Api.csproj", "{845E3122-0477-4F00-B8C3-549F001560F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GamzeNurKural-Week3-Homework.Data", "GamzeNurKural-Week3-Homework.Data\GamzeNurKural-Week3-Homework.Data.csproj", "{FA825B00-6E43-4035-B85D-1D2E5C9B214F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GamzeNurKural-Week3-Homework.Domain", "GamzeNurKural-Week3-Homework.Domain\GamzeNurKural-Week3-Homework.Domain.csproj", "{157C1F0A-FC84-4A65-B256-0E698DE9490F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GamzeNurKural-Week3-Homework.Services", "GamzeNurKural-Week3-Homework.Services\GamzeNurKural-Week3-Homework.Services.csproj", "{51ACE18B-95CB-47E1-8A23-19099DF636F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B247AAA-E25C-4DF3-8C9B-7DA9C75F41B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B247AAA-E25C-4DF3-8C9B-7DA9C75F41B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B247AAA-E25C-4DF3-8C9B-7DA9C75F41B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B247AAA-E25C-4DF3-8C9B-7DA9C75F41B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845E3122-0477-4F00-B8C3-549F001560F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845E3122-0477-4F00-B8C3-549F001560F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845E3122-0477-4F00-B8C3-549F001560F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845E3122-0477-4F00-B8C3-549F001560F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA825B00-6E43-4035-B85D-1D2E5C9B214F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA825B00-6E43-4035-B85D-1D2E5C9B214F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA825B00-6E43-4035-B85D-1D2E5C9B214F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA825B00-6E43-4035-B85D-1D2E5C9B214F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157C1F0A-FC84-4A65-B256-0E698DE9490F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157C1F0A-FC84-4A65-B256-0E698DE9490F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157C1F0A-FC84-4A65-B256-0E698DE9490F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157C1F0A-FC84-4A65-B256-0E698DE9490F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51ACE18B-95CB-47E1-8A23-19099DF636F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ACE18B-95CB-47E1-8A23-19099DF636F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ACE18B-95CB-47E1-8A23-19099DF636F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ACE18B-95CB-47E1-8A23-19099DF636F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6DEFB1-5BA0-436F-BE76-249488D24EE0}
+	EndGlobalSection
+EndGlobal
